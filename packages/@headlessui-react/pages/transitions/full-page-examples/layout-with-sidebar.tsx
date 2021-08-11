@@ -160,7 +160,7 @@ export default function App() {
           </div>
           <main className="relative z-0 flex-1 p-8 overflow-y-auto">
             {/* Replace with your content */}
-            <div className="border-4 border-gray-200 border-dashed rounded-lg h-96"></div>
+            <div className="border-4 border-gray-200 border-dashed rounded-lg h-96">bæng</div>
             {/* /End replace */}
           </main>
         </div>
